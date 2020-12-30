@@ -158,7 +158,7 @@ const Register = () => {
             <Button type='primary' htmlType='submit'>
               Register
             </Button>
-            <Link to='/login'>Already have an account?</Link>
+            <Link to='/'>Already have an account?</Link>
           </div>
         </Form.Item>
       </Form>
